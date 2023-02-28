@@ -141,8 +141,8 @@ const config = {
 
       // Plugin / TypeDoc options
       {
-        entryPoints: ['./A/index.ts'],
-        tsconfig: './A/tsconfig.json',
+        entryPoints: ['../index.ts'],
+        tsconfig: '../tsconfig.json',
       },
     ],
   ],
